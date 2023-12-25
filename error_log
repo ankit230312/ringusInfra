@@ -1,0 +1,79 @@
+[23-Dec-2023 01:57:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/dp.php:8
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/dp.php(8): mysqli->__construct()
+#1 /home/oi3z8w83c8oz/public_html/ringusinfra.com/common/header.php(1): include('/home/oi3z8w83c...')
+#2 /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php(1): include('/home/oi3z8w83c...')
+#3 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/dp.php on line 8
+[23-Dec-2023 01:58:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ringus_infra.pinCode' doesn't exist in /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php:46
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php(46): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php on line 46
+[24-Dec-2023 12:06:14 UTC] PHP Warning:  Undefined array key "agentName" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 61
+[24-Dec-2023 12:06:14 UTC] PHP Warning:  Undefined array key "agentRole" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 62
+[24-Dec-2023 12:06:14 UTC] PHP Warning:  Undefined array key "agentDescription" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 63
+[24-Dec-2023 12:06:14 UTC] PHP Warning:  Undefined array key "agentId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 65
+[24-Dec-2023 12:07:15 UTC] PHP Warning:  Undefined array key "agentId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 65
+[24-Dec-2023 12:07:39 UTC] PHP Warning:  Undefined array key "agentId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 65
+[24-Dec-2023 12:08:02 UTC] PHP Warning:  Undefined array key "agentId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/media.php on line 65
+[24-Dec-2023 12:10:42 UTC] PHP Warning:  Undefined variable $propertiesPerPage in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 307
+[24-Dec-2023 12:10:42 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:307
+Stack trace:
+#0 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 307
+[24-Dec-2023 12:11:40 UTC] PHP Warning:  Undefined variable $propertiesPerPage in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 307
+[24-Dec-2023 12:11:40 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:307
+Stack trace:
+#0 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 307
+[24-Dec-2023 12:33:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '='1'' at line 1 in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:161
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php(161): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 161
+[24-Dec-2023 12:33:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '='1'' at line 1 in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:161
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php(161): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 161
+[24-Dec-2023 12:33:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '='1'' at line 1 in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:161
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php(161): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 161
+[24-Dec-2023 12:34:13 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 164
+[24-Dec-2023 12:34:13 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 164
+[24-Dec-2023 12:37:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'where blog_category='1'' at line 1 in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php:65
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php(65): mysqli_query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 65
+[24-Dec-2023 12:41:23 UTC] PHP Warning:  Undefined array key "propertyId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 12:41:23 UTC] PHP Warning:  Undefined array key "propertyId" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 16:08:17 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 16:08:17 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 16:10:01 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 16:10:01 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 165
+[24-Dec-2023 16:14:14 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php on line 242
+[24-Dec-2023 16:16:41 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/index.php on line 242
+[24-Dec-2023 17:27:02 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[24-Dec-2023 17:27:02 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 02:04:49 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 02:04:49 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 02:10:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ringus_infra.your_table_name' doesn't exist in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog_detail.php:11
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog_detail.php(11): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog_detail.php on line 11
+[25-Dec-2023 02:23:14 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 02:23:14 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 02:25:46 UTC] PHP Warning:  Undefined array key "craeted_at" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog_detail.php on line 65
+[25-Dec-2023 02:48:29 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/oi3z8w83c8oz/public_html/ringusinfra.com/common/footer.php:116
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/common/footer.php(116): mysqli->close()
+#1 /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog_detail.php(143): include('/home/oi3z8w83c...')
+#2 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/common/footer.php on line 116
+[25-Dec-2023 03:06:31 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154
+[25-Dec-2023 03:06:31 UTC] PHP Warning:  Undefined array key "blog_category" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/blog.php on line 154

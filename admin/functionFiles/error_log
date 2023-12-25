@@ -1,0 +1,58 @@
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(common/header.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 8
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(common/header.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 8
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(): Failed opening 'common/header.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 8
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  include(): Failed opening 'dp.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  Attempt to read property "connect_error" on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:05 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:24:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  include(): Failed opening 'dp.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  Attempt to read property "connect_error" on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:19 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  include(dp.php): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  include(): Failed opening 'dp.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 10
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  Attempt to read property "connect_error" on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 17
+[24-Dec-2023 11:24:37 UTC] PHP Warning:  Undefined variable $conn in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 83
+[24-Dec-2023 11:30:45 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:30:45 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:30:52 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:30:52 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:31:03 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:31:03 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:32:13 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:32:13 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:32:59 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 284
+[24-Dec-2023 11:32:59 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:32:59 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 293
+[24-Dec-2023 11:33:52 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 284
+[24-Dec-2023 11:33:55 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 284
+[24-Dec-2023 11:34:07 UTC] PHP Warning:  Undefined array key "category_id" in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 284
+[24-Dec-2023 11:49:26 UTC] PHP Warning:  move_uploaded_file(blogImage/listing2.jpg): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 50
+[24-Dec-2023 11:49:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phphlcinf&quot; to &quot;blogImage/listing2.jpg&quot; in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 50
+[24-Dec-2023 11:49:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc='test desc update', image='blogImage/listing2.jpg' WHERE id = 2' at line 1 in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php:59
+Stack trace:
+#0 /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php(59): mysqli->query()
+#1 {main}
+  thrown in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 59
+[24-Dec-2023 11:51:50 UTC] PHP Warning:  move_uploaded_file(blogImage/listing2.jpg): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 50
+[24-Dec-2023 11:51:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpSdE8wR&quot; to &quot;blogImage/listing2.jpg&quot; in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_blog.php on line 50
+[24-Dec-2023 12:01:31 UTC] PHP Warning:  move_uploaded_file(mediaImage/WhatsApp Image 2023-11-24 at 23.49.04_f0839dd1.jpg): Failed to open stream: No such file or directory in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_media.php on line 72
+[24-Dec-2023 12:01:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpnQRI88&quot; to &quot;mediaImage/WhatsApp Image 2023-11-24 at 23.49.04_f0839dd1.jpg&quot; in /home/oi3z8w83c8oz/public_html/ringusinfra.com/admin/functionFiles/edit_media.php on line 72
